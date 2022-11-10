@@ -7,7 +7,7 @@ import java.sql.*;
 
 public class jdbc_examples {
 
-    String dbUrl = "jdbc:oracle:thin:@44.195.19.167:1521:XE";
+    String dbUrl = "jdbc:oracle:thin:@44.211.76.50:1521:XE";
     String dbUsername = "hr";
     String dbPassword = "hr";
 
